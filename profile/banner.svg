@@ -19,33 +19,11 @@
   <rect width="1200" height="400" fill="url(#glow)" />
   <rect width="1200" height="400" fill="url(#glow2)" />
 
-  <!-- Left accent bar -->
-  <rect x="72" y="90" width="4" height="160" fill="#E32727" rx="2" />
-
   <!-- RP.ONE wordmark -->
-  <text x="96" y="194" font-family="system-ui, -apple-system, sans-serif" font-size="100" font-weight="900" letter-spacing="-3">
+  <text x="600" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="110" font-weight="900" letter-spacing="-3">
     <tspan fill="#ffffff">RP</tspan><tspan fill="#E32727">.</tspan><tspan fill="rgba(255,255,255,0.35)">ONE</tspan>
   </text>
 
-  <!-- Divider -->
-  <rect x="96" y="220" width="440" height="1" fill="rgba(255,255,255,0.1)" />
-
   <!-- Tagline -->
-  <text x="100" y="260" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="400" fill="rgba(255,255,255,0.55)" letter-spacing="0.5">The velocity layer of digital money</text>
-
-  <!-- Stats row -->
-  <text x="100" y="312" font-family="ui-monospace, 'Courier New', monospace" font-size="14" font-weight="500" fill="rgba(255,255,255,0.28)" letter-spacing="1.5">100K+ TPS  ·  300ms FINALITY  ·  NATIVE PRIVACY  ·  EVM COMPATIBLE</text>
-
-  <!-- Domain -->
-  <text x="100" y="358" font-family="ui-monospace, 'Courier New', monospace" font-size="14" font-weight="400" fill="rgba(227,39,39,0.55)" letter-spacing="1">rp.one</text>
-
-  <!-- Right decorative lines -->
-  <rect x="860" y="108" width="240" height="3" fill="#E32727" rx="1.5" opacity="0.7" />
-  <rect x="900" y="132" width="200" height="3" fill="#FF7A1A" rx="1.5" opacity="0.45" />
-  <rect x="876" y="156" width="224" height="3" fill="#4BA3FF" rx="1.5" opacity="0.3" />
-  <rect x="920" y="180" width="180" height="3" fill="#E32727" rx="1.5" opacity="0.15" />
-  <rect x="940" y="204" width="160" height="3" fill="#FF7A1A" rx="1.5" opacity="0.1" />
-
-  <!-- Right vertical accent -->
-  <rect x="1116" y="100" width="2" height="260" fill="rgba(255,255,255,0.04)" rx="1" />
+  <text x="600" y="268" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="400" fill="rgba(255,255,255,0.45)" letter-spacing="0.5">The velocity layer of digital money</text>
 </svg>
