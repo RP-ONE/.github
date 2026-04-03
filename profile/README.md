@@ -1,13 +1,6 @@
 <div align="center">
 
-<img src="https://rp.one/rp1-logo.png" alt="RP1" height="64" />
-
-<br />
-<br />
-
-**The velocity layer of digital money**
-
-<br />
+<img src="./banner.svg" alt="RP.ONE — The velocity layer of digital money" width="100%" />
 
 [![Website](https://img.shields.io/badge/rp.one-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgZmlsbD0iI0UzMjcyNyIvPjwvc3ZnPg==)](https://rp.one)
 [![Wallet](https://img.shields.io/badge/Wallet-app.rp.one-E32727?style=for-the-badge)](https://app.rp.one)
@@ -105,5 +98,5 @@ Connect with any Cosmos-compatible wallet, or use the hosted wallet at [app.rp.o
 ---
 
 <div align="center">
-<sub>© 2026 RP1 Research Team</sub>
+<sub>© 2026 RP.ONE Research Team</sub>
 </div>
