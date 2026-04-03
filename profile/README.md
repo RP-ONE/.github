@@ -2,6 +2,12 @@
 
 <img src="./banner.svg" alt="RP.ONE — The velocity layer of digital money" width="100%" />
 
+### The testnet is live. Create your wallet and start trading.
+
+**[→ Create Wallet at app.rp.one](https://app.rp.one)**
+
+<br />
+
 [![Website](https://img.shields.io/badge/rp.one-000000?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgZmlsbD0iI0UzMjcyNyIvPjwvc3ZnPg==)](https://rp.one)
 [![Wallet](https://img.shields.io/badge/Wallet-app.rp.one-E32727?style=for-the-badge)](https://app.rp.one)
 [![Explorer](https://img.shields.io/badge/Explorer-explorer.rp.one-FF7A1A?style=for-the-badge)](https://explorer.rp.one)
@@ -80,16 +86,6 @@ Prefix    rp1
 ```
 
 Connect with any Cosmos-compatible wallet, or use the hosted wallet at [app.rp.one](https://app.rp.one). Live blocks, transactions, validators, and DEX activity are visible at [explorer.rp.one](https://explorer.rp.one).
-
----
-
-<div align="center">
-
-### The testnet is live. Create your wallet and start trading.
-
-**[→ Create Wallet at app.rp.one](https://app.rp.one)**
-
-</div>
 
 ---
 
