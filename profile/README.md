@@ -83,6 +83,16 @@ Connect with any Cosmos-compatible wallet, or use the hosted wallet at [app.rp.o
 
 ---
 
+<div align="center">
+
+### The testnet is live. Create your wallet and start trading.
+
+**[→ Create Wallet at app.rp.one](https://app.rp.one)**
+
+</div>
+
+---
+
 ## Resources
 
 | | |
