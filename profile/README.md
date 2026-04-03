@@ -2,9 +2,11 @@
 
 <img src="./banner.svg" alt="RP.ONE — The velocity layer of digital money" width="100%" />
 
-### The testnet is live. Create your wallet and start trading.
+The testnet is live. Create your wallet and start trading.
 
-**[→ Create Wallet at app.rp.one](https://app.rp.one)**
+<br />
+
+[![Create Wallet](./cta-button.svg)](https://app.rp.one)
 
 <br />
 
