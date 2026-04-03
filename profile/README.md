@@ -2,7 +2,11 @@
 
 <img src="./banner.svg" alt="RP.ONE — The velocity layer of digital money" width="100%" />
 
-The testnet is live. Create your wallet and start trading.
+The RP.ONE testnet is live.
+
+Create your wallet at [app.rp.one](https://app.rp.one) — trade on the native DEX, bridge assets from ETH, BTC, and SOL, and explore shielded private transactions.
+
+**100,000+ TPS · 300ms finality · <$0.00001 fees**
 
 <br />
 
