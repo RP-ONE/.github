@@ -4,7 +4,7 @@
 
 The RP.ONE testnet is live.
 
-Create your wallet at [app.rp.one](https://app.rp.one) — trade on the native DEX, bridge assets from ETH, BTC, and SOL, and explore shielded private transactions.
+Create your wallet at [app.rp.one](https://app.rp.one). Trade on the native DEX, bridge assets from ETH, BTC, and SOL, and explore shielded private transactions.
 
 **100,000+ TPS · 300ms finality · <$0.00001 fees**
 
@@ -31,7 +31,7 @@ Create your wallet at [app.rp.one](https://app.rp.one) — trade on the native D
 
 ## What is RP1?
 
-RP1 is a Layer 1 blockchain built for high-frequency financial activity. It targets **100,000+ TPS** and **300ms deterministic finality** at transaction costs below $0.00001 — without sacrificing decentralisation or security.
+RP1 is a Layer 1 blockchain built for high-frequency financial activity. It targets **100,000+ TPS** and **300ms deterministic finality** at transaction costs below $0.00001, without sacrificing decentralisation or security.
 
 Trading is a first-class primitive on RP1, not an application layer afterthought. The exchange, margin system, privacy layer, stablecoin, and multi-chain bridges all settle on the same chain under the same validator set.
 
@@ -53,27 +53,27 @@ Trading is a first-class primitive on RP1, not an application layer afterthought
 
 **Trading and Exchange**
 
-A native on-chain exchange supporting limit orders, market orders, and passive liquidity provision. Three execution modes cover everything from institutional order flow to long-tail token markets — with built-in MEV resistance at the protocol level. No mempool front-running, no sandwich attacks.
+A native on-chain exchange supporting limit orders, market orders, and passive liquidity provision. Three execution modes cover everything from institutional order flow to long-tail token markets, with built-in MEV resistance at the protocol level. No mempool front-running, no sandwich attacks.
 
 **Cross-Asset Margin**
 
-A unified account model that treats all your positions — spot, perpetuals, lending — as a single portfolio. Capital posted as collateral works across every market simultaneously. Liquidations are handled on-chain with a transparent auction mechanism and an insurance backstop.
+A unified account model that treats all your positions (spot, perpetuals, lending) as a single portfolio. Capital posted as collateral works across every market simultaneously. Liquidations are handled on-chain with a transparent auction mechanism and an insurance backstop.
 
 **Native Privacy**
 
-Shield any token into a private pool and transact without revealing sender, recipient, or amount. Validity is enforced on-chain via zero-knowledge proofs — no trusted intermediary, no off-chain prover. Works alongside the public exchange for private swaps and payments.
+Shield any token into a private pool and transact without revealing sender, recipient, or amount. Validity is enforced on-chain via zero-knowledge proofs, no trusted intermediary, no off-chain prover. Works alongside the public exchange for private swaps and payments.
 
 **Cross-Chain Liquidity**
 
-Aggregate liquidity from external chains and protocols directly into RP1's routing layer. Provide liquidity once, earn fees from volume across multiple venues. Capital is rebalanced on-chain — no manual management required.
+Aggregate liquidity from external chains and protocols directly into RP1's routing layer. Provide liquidity once, earn fees from volume across multiple venues. Capital is rebalanced on-chain, no manual management required.
 
 **Stablecoin**
 
-Mint **rUSD**, an over-collateralised stablecoin, against accepted assets. Stake rUSD to receive **srUSD** and earn protocol yield from trading fees and liquidation revenue. Fully on-chain — no oracle committees, no off-chain reserves.
+Mint **rUSD**, an over-collateralised stablecoin, against accepted assets. Stake rUSD to receive **srUSD** and earn protocol yield from trading fees and liquidation revenue. Fully on-chain, no oracle committees, no off-chain reserves.
 
 **Multi-Chain Bridges**
 
-Bring BTC, ETH, and SOL natively onto RP1. Bridge security is enforced by the validator set — no trusted bridge operator, no separate multisig. Assets settle directly on RP1 without relying on third-party bridge infrastructure.
+Bring BTC, ETH, and SOL natively onto RP1. Bridge security is enforced by the validator set, no trusted bridge operator, no separate multisig. Assets settle directly on RP1 without relying on third-party bridge infrastructure.
 
 ---
 
@@ -100,7 +100,7 @@ Connect with any Cosmos-compatible wallet, or use the hosted wallet at [app.rp.o
 | | |
 |---|---|
 | [rp.one](https://rp.one) | Main website and whitepaper |
-| [app.rp.one](https://app.rp.one) | Web wallet — Cosmos, EVM, and Solana |
+| [app.rp.one](https://app.rp.one) | Web wallet (Cosmos, EVM, and Solana) |
 | [explorer.rp.one](https://explorer.rp.one) | Block explorer |
 | [docs.rp.one](https://docs.rp.one) | Technical documentation |
 | [updates.rp.one](https://updates.rp.one) | Development updates and announcements |
