@@ -6,7 +6,7 @@ The RP.ONE testnet is live.
 
 Create your wallet at [app.rp.one](https://app.rp.one). Trade on the native DEX, bridge assets from ETH, BTC, and SOL, and explore shielded private transactions.
 
-**100,000+ TPS · 300ms finality · <$0.00001 fees**
+**613,700 peak batched operations/s · sub-350ms observed P95 finality in a separate test**
 
 <br />
 
@@ -31,7 +31,9 @@ Create your wallet at [app.rp.one](https://app.rp.one). Trade on the native DEX,
 
 ## What is RP1?
 
-RP1 is a Layer 1 blockchain built for high-frequency financial activity. It targets **100,000+ TPS** and **300ms deterministic finality** at transaction costs below $0.00001, without sacrificing decentralisation or security.
+RP1 is a Layer 1 blockchain built for high-frequency financial activity. The historical stressnet dashboard reported a peak of **613,700 batched operations per second**. A separate four-validator native-transfer run on 12 July 2026 observed **330.774ms P95 committed finality** with a 5ms query cadence. These results describe different workloads; they do not establish both figures at the same load or guarantee public-testnet performance.
+
+Batched operations and signed transaction envelopes are different units. The historical peak run committed 613,700 operations in 100 signed envelopes over about 11 seconds; its reported peak uses a database-second bucket, not the whole-run average. Testing one transaction at a time measures a closed-loop workflow and cannot establish saturation capacity. Reproduction requires the specified batching, concurrency, validator hardware, and network configuration. See the [public benchmark harness and run guide](https://github.com/RP-ONE/rp1-benchmark). The chain source remains private.
 
 Trading is a first-class primitive on RP1, not an application layer afterthought. The exchange, margin system, privacy layer, stablecoin, and multi-chain bridges all settle on the same chain under the same validator set.
 
@@ -39,9 +41,9 @@ Trading is a first-class primitive on RP1, not an application layer afterthought
 
 <div align="center">
 
-| 100,000+ TPS | 300ms Finality | < $0.00001 Fees | EVM Compatible |
+| Batched operations | Committed finality | Native fees | EVM Compatible |
 |:---:|:---:|:---:|:---:|
-| Custom consensus + parallel execution | Deterministic, not probabilistic | Sustained at full throughput | Full Ethereum JSON-RPC |
+| Report operations/s and signed envelopes/s separately | Report P50/P95/P99 with query cadence | Verify the fee for the tested workload | Full Ethereum JSON-RPC |
 
 </div>
 
